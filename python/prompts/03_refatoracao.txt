@@ -1,0 +1,14 @@
+REFACTOR GILDED ROSE WITH CLEAN CODE PRINCIPLES
+
+Refactor the Gilded Rose code to be more maintainable while preserving EXACT behavior.
+Requirements:
+1. Apply Clean Code principles
+2. Use design patterns where appropriate (Strategy pattern recommended)
+3. Remove nested conditionals
+4. Make code more readable
+5. Add proper comments
+6. Save as "gilded_rose_refactored.py"
+
+DO NOT change any behavior. All existing tests must pass.
+
+Create the refactored version with a clear class structure.

@@ -1,0 +1,20 @@
+GENERATE COMPREHENSIVE UNIT TESTS
+
+As a senior software engineer, create a complete pytest test suite for the Gilded Rose.
+Requirements:
+1. Achieve 100% code coverage
+2. Test ALL business rules explicitly
+3. Use Arrange-Act-Assert pattern
+4. Include edge cases
+5. Tests should be independent
+6. Use descriptive test names
+7. Save as "test_gilded_rose_ai.py"
+
+Important business rules to cover:
+- "Aged Brie" increases in quality as it ages
+- "Sulfuras" never decreases in quality or sell_in
+- "Backstage passes" have special quality increases
+- Once sell_in < 0, quality degrades twice as fast
+- Quality is always between 0 and 50
+
+Generate the complete test file with at least 30 test cases.

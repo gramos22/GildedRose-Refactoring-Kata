@@ -1,0 +1,8 @@
+ANALYSE THE GILDED ROSE CODE
+
+I need you to analyse this Python code from the Gilded Rose Refactoring Kata.
+Please explain:
+1. What does this code do?
+2. What are the business rules?
+3. What are the edge cases?
+4. What makes this code "legacy" or hard to maintain?
